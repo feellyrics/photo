@@ -1,7 +1,5 @@
 # photo
-nature photo
 
-#output
 
 ![picture2](https://github.com/feellyrics/photo-gallery/assets/139405279/be2795a6-0679-4153-832f-c90eec1722e2)
 ![picture3](https://github.com/feellyrics/photo-gallery/assets/139405279/7de5d2d7-0c7a-4045-8e31-917b7fac300f)
